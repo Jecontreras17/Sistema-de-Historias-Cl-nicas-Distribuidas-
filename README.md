@@ -1,4 +1,4 @@
-# Sistema-de-Historias-Clinicas-Distribuidas-
+# Sistema-de-Historias-Clinicas-Distribuidas
 Es un proyecto universitario que propone un sistema de historias clínicas distribuidas, donde la información de los pacientes puede ser consultada de forma segura desde diferentes lugares. Su objetivo es mejorar la organización de los datos médicos y apoyar una atención más rápida y ordenada.
 
 Nota: Todos los comandos fueron testeados en Debian GNU/Linux 13 (trixie). Se recomienda utilizar esta versión o una compatible.
